@@ -1,0 +1,21 @@
+03-May-2024 20:43:10
+ Easyshop Management System
+=========================================
+
+Snacks		Price
+Doughnut		6.0
+Chicken pie		6.0
+Sausage roll		2.5
+
+Cost of drinks		1.2			1	2
+=========================================
+
+Subtotal		19.09
+Tax		1.5
+Total		20.59
+
+=========================================
+
+Thank you for patronising us, come again soon
+
+
